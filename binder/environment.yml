@@ -1,0 +1,16 @@
+name: earthcube-notebook
+channels:
+  - conda-forge
+dependencies:
+  - cftime
+  - cmaps
+  - fsspec
+  - intake-esm
+  - nc-time-axis
+  - netcdf4
+  - pangeo-notebook=2020.05.04
+  - pip
+  - s3fs
+  - watermark
+  - zarr
+  - cartopy
