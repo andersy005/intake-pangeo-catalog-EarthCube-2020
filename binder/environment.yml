@@ -7,10 +7,12 @@ dependencies:
   - fsspec
   - gcsfs
   - intake-esm
+  - matplotlib
   - nc-time-axis
   - netcdf4
   - pangeo-notebook=2020.05.04
   - pip
+  - proplot
   - s3fs
   - watermark
   - zarr
