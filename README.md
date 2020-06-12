@@ -2,7 +2,7 @@
 - [Intake / Pangeo Catalog: Making It Easier To Consume Earth’s Climate and Weather Data](#intake--pangeo-catalog-making-it-easier-to-consume-earths-climate-and-weather-data)
   - [Authors](#authors)
   - [Abstract](#abstract)
-  - [Try this notebook on pangeo.binder.io](#try-this-notebook-on-pangeobinderio)
+  - [Try this notebook on Pangeo Binder](#try-this-notebook-on-pangeo-binder)
 
 ## Authors
 
@@ -19,7 +19,7 @@ In this notebook, we demonstrate the integration of data discovery tools such as
 
 We also showcase the [Pangeo catalog](https://catalog.pangeo.io/), an open source project to enumerate and organize cloud optimized climate data stored across a variety of providers, and a place where several intake-esm collections are now publicly available. We use one of these public collections as an example to show how an end user would explore and interact with the data, and conclude with a short overview of the catalog's online presence.
 
-## Try this notebook on pangeo.binder.io
+## Try this notebook on Pangeo Binder
 
 To try this notebook in your web browser, just click on the binder logo/image:
 
