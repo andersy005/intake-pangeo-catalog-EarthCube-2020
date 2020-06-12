@@ -1,3 +1,5 @@
+[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue&style=for-the-badge)](https://binder.pangeo.io/v2/gh/andersy005/intake-pangeo-catalog-EarthCube-2020/master)
+
 # Intake / Pangeo Catalog: Making It Easier To Consume Earth’s Climate and Weather Data
 - [Intake / Pangeo Catalog: Making It Easier To Consume Earth’s Climate and Weather Data](#intake--pangeo-catalog-making-it-easier-to-consume-earths-climate-and-weather-data)
   - [Authors](#authors)
